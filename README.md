@@ -9,3 +9,4 @@ Esquemas Utilizados del algortimo MLQ
 
 
 Entradas no enviadas: Son archivos aun no analizados 
+LINK VIDEO: https://drive.google.com/file/d/1r5Kn3_L89F2pCXrNnOicHZR_8dC9eDAW/view?usp=sharing
